@@ -1,5 +1,8 @@
 # CYK_Parser_Visualization
+The project started off owing to my liking for Automata Theory. Still working on improving the visual effects andmaking more enhancements in the project.
 The project aims at visualizing how a string is parsed with respect to the Chomsky Normal Form (CNF) grammar using CYK algorithm which is widely used in the field of Automata Theory.
+
+
 
 trial1 and trial2 are the images that show the obtained output.
 
